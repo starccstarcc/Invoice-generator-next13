@@ -1,10 +1,10 @@
-# Invoify
+# Invoice-Generator
 
-Invoify is a web-based invoice generator application built with Next.js, TypeScript, React, and the Shadcn UI library. It provides an easy way to create and manage professional invoices for your business.
+Invoice-Generator is a web-based invoice generator application built with Next.js, TypeScript, React, and the Shadcn UI library. It provides an easy way to create and manage professional invoices for your business.
 
 ## Table of Contents
 
-- [Invoify](#invoify)
+- [Invoice-Generator](#Invoice-Generator)
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
   - [Getting Started](#getting-started)
@@ -21,7 +21,7 @@ Invoify is a web-based invoice generator application built with Next.js, TypeScr
 
 ## Getting Started
 
-Follow these instructions to get Invoify up and running on your local machine.
+Follow these instructions to get Invoice-Generator up and running on your local machine.
 
 ### Prerequisites
 
@@ -32,8 +32,8 @@ Follow these instructions to get Invoify up and running on your local machine.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/mchristophertian/Invoify-next13.git
-   cd invoify
+   git clone https://github.com/mchristophertian/Invoice-Generator-next13.git
+   cd Invoice-Generator
 2. Install dependencies
    
    ```
