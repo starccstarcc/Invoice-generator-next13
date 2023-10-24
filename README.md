@@ -32,7 +32,7 @@ Follow these instructions to get Invoify up and running on your local machine.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/aliabb01/invoify.git
+   git clone https://github.com/mchristophertian/Invoify-next13.git
    cd invoify
 2. Install dependencies
    
